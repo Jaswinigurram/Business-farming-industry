@@ -1,5 +1,3 @@
-package com.qa.seleniumscripts;
-
 public class APITesting {
 
 	public static void main(String[] args) {
